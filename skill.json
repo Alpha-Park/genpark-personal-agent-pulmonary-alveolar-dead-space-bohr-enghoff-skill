@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-pulmonary-alveolar-dead-space-bohr-enghoff-skill",
+  "version": "1.0.0",
+  "description": "Calculates Bohr-Enghoff physiological alveolar dead space fraction (V_D / V_T), alveolar PO2, and alveolar-arterial oxygen gradient to assess gas exchange efficiency.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "pulmonary",
+    "respiratory",
+    "dead-space",
+    "gas-exchange",
+    "bohr-equation",
+    "oxygenation",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
